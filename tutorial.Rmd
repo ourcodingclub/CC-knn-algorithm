@@ -11,7 +11,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## What is Machine Learning?
 
-Machine learnign can be understand as algorithms that make data driven predictions and decisions by constructing a model from sample inputs. It is very closely related to computational statistics and draws a lot upon mathematical optimisation. The applications for it are vast, from filtering spam from your emails to advanced computer vision and image recognition  algorithms used for self-driving cars.  
+Machine learning can be understand as algorithms that make data driven predictions and decisions by constructing a model from sample inputs. It is very closely related to computational statistics and draws a lot upon mathematical optimisation. The applications for it are vast, from filtering spam from your emails to advanced computer vision and image recognition  algorithms used for self-driving cars.  
 
 
 A widely quoted, more formal definition of the algorithms studied in the machine learning field is: 
