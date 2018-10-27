@@ -195,8 +195,18 @@ CrossTable(x = irisTest.labels, y = iris.knn, prop.chisq = FALSE)
 
 We can see that our algorithm was able to almost predict all species classes correctly, except for two cases where virginica was falsely classified by our algorithm as versicolor. However all in all this is already a good result! 
 
-### Next steps
+### Summary and Next steps
 
-We have now covered the very basics of machine learning in R, however there is still a whole world to explore. For those interested in learning more have a look at this [freely available book](https://daviddalpiaz.github.io/r4sl/index.html) on machine learning in R.
+We have now covered:
+
+- the very basics of machine learning in R
+
+- implementing k-nearest neighbour classification
+
+- building our own training and test datasets
+
+- testing and evaluating our knn algorithm
+
+However there is still a whole world to explore. For those interested in learning more have a look at this [freely available book](https://daviddalpiaz.github.io/r4sl/index.html) on machine learning in R.
 
 You can now also go ahead and try to implement your own knn model using your own data or an established dataset such as the one used in this tutorial. 
